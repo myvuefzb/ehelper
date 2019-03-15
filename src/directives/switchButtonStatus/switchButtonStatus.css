@@ -1,0 +1,6 @@
+.btn-active-status{
+  opacity: 1 !important;
+}
+.btn-deactivate-status{
+  opacity: 0.5 !important;
+}
